@@ -1,0 +1,52 @@
+[
+  {
+    "number": 1,
+    "title": "Chapter: Part 1",
+    "target_pages": 20
+  },
+  {
+    "number": 2,
+    "title": "Chapter: Part 2",
+    "target_pages": 20
+  },
+  {
+    "number": 3,
+    "title": "Chapter: Part 3",
+    "target_pages": 20
+  },
+  {
+    "number": 4,
+    "title": "Chapter: Part 4",
+    "target_pages": 20
+  },
+  {
+    "number": 5,
+    "title": "Chapter: Part 5",
+    "target_pages": 20
+  },
+  {
+    "number": 6,
+    "title": "Chapter: Part 6",
+    "target_pages": 20
+  },
+  {
+    "number": 7,
+    "title": "Chapter: Part 7",
+    "target_pages": 20
+  },
+  {
+    "number": 8,
+    "title": "Chapter: Part 8",
+    "target_pages": 20
+  },
+  {
+    "number": 9,
+    "title": "Chapter: Part 9",
+    "target_pages": 20
+  },
+  {
+    "number": 10,
+    "title": "Chapter: Part 10",
+    "target_pages": 20
+  }
+]

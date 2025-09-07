@@ -1,0 +1,476 @@
+[
+  {
+    "number": 1,
+    "title": "Planning Your Website Foundation",
+    "objectives": [
+      "Understand the critical importance of thorough planning before embarking on website development.",
+      "Define clear, measurable, and achievable goals for your website, aligning with business objectives.",
+      "Identify and analyze your target audience to inform design, content, and functionality decisions.",
+      "Conduct basic competitor research to identify market gaps, best practices, and unique selling propositions.",
+      "Outline the essential content, features, and functionalities required for your website to meet its goals.",
+      "Develop a preliminary sitemap and user flow to establish a logical information architecture.",
+      "Grasp the fundamental components of a website (frontend, backend, database, hosting) at a high conceptual level.",
+      "Consider initial budget allocations and realistic timelines for the website project."
+    ],
+    "key_ideas": [
+      "Strategic Importance of Planning: A well-planned website minimizes risks, saves resources, and ensures alignment with objectives.",
+      "SMART Goals for Websites: Setting Specific, Measurable, Achievable, Relevant, and Time-bound objectives drives project success.",
+      "User-Centric Design Philosophy: Understanding user needs, behaviors, and pain points is paramount for creating an effective website.",
+      "Competitive Edge Through Analysis: Learning from competitors' successes and failures helps differentiate your online presence.",
+      "Content as King & Information Architecture: High-quality, organized content is the foundation of user engagement and navigability.",
+      "The Website Ecosystem: A high-level overview of frontend, backend, database, and hosting as interconnected components.",
+      "Project Management Basics: Realistic budget and timeline considerations are crucial for project feasibility and execution."
+    ],
+    "image_prompts": [
+      {
+        "purpose": "Illustrate the overall planning process.",
+        "prompt": "An architect's desk with blueprints, sketches, and a digital tablet displaying website wireframes, symbolizing the foundational planning stage of a website project."
+      },
+      {
+        "purpose": "Explain SMART goals.",
+        "prompt": "A clean, modern infographic illustrating the SMART goals framework (Specific, Measurable, Achievable, Relevant, Time-bound) applied to website objectives, with clear icons for each letter."
+      },
+      {
+        "purpose": "Demonstrate user persona concept.",
+        "prompt": "A user persona profile card, showing a fictional user's photo, name, demographics, goals, pain points, and a relevant quote, representing a target website user."
+      },
+      {
+        "purpose": "Visualize competitor analysis.",
+        "prompt": "A simplified comparison table or matrix showing key features and characteristics of several competitor websites, highlighting strengths and weaknesses, with analytical charts."
+      },
+      {
+        "purpose": "Show website structure.",
+        "prompt": "A clear, hierarchical sitemap diagram for a small business website, showing main pages (e.g., Home, About, Services, Contact) and sub-pages, with arrows indicating navigation paths."
+      },
+      {
+        "purpose": "Illustrate user journey.",
+        "prompt": "A simple user flow diagram showing a user's path through a website to complete a specific task (e.g., 'Find a service' or 'Make a purchase'), using interconnected shapes and arrows."
+      },
+      {
+        "purpose": "Explain website components.",
+        "prompt": "An abstract, interconnected diagram representing the high-level components of a website: 'Frontend' (user interface), 'Backend' (server logic), 'Database' (data storage), and 'Hosting' (server location), with arrows showing data flow."
+      },
+      {
+        "purpose": "Visualize project management.",
+        "prompt": "A simplified Gantt chart or project timeline graphic for a website development project, showing key phases like planning, design, development, and launch with estimated durations."
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Designing Your Website: User Experience and Interface Fundamentals",
+    "objectives": [
+      "Grasp the foundational principles of User Experience (UX) and User Interface (UI) design.",
+      "Learn to apply user-centered design methodologies, including basic user research and information architecture.",
+      "Understand core visual design elements such as layout, color theory, typography, and imagery for effective UI.",
+      "Develop practical skills in wireframing and prototyping to visualize and test design concepts.",
+      "Implement strategies for responsive design to ensure optimal viewing across various devices.",
+      "Formulate a cohesive design strategy and identify essential design resources for their website project."
+    ],
+    "key_ideas": [
+      "**UX vs. UI:** Understanding their distinct roles and synergistic relationship in creating effective websites.",
+      "**User-Centered Design:** Prioritizing user needs, goals, and behaviors throughout the design process.",
+      "**Information Architecture:** Organizing and structuring content for intuitive navigation and discoverability.",
+      "**Visual Hierarchy & Layout:** Guiding user attention and creating clear, scannable interfaces using grids, whitespace, and visual cues.",
+      "**Color & Typography:** Leveraging color theory for branding and mood, and selecting legible, accessible font pairings.",
+      "**Wireframing & Prototyping:** Iterative processes for conceptualizing, validating, and refining design ideas before development.",
+      "**Responsive Design:** Adapting website layouts and content seamlessly to provide an optimal experience on desktops, tablets, and mobile devices.",
+      "**Accessibility:** Ensuring designs are usable and perceivable by individuals with diverse abilities."
+    ],
+    "image_prompts": [
+      {
+        "purpose": "Illustrate UX vs. UI.",
+        "prompt": "A visually clear infographic or Venn diagram comparing and contrasting User Experience (UX) and User Interface (UI) design elements and their focus areas (e.g., UX focuses on research, flow, usability; UI focuses on visuals, interaction, branding)."
+      },
+      {
+        "purpose": "Demonstrate Information Architecture.",
+        "prompt": "A simple, clean flowchart or sitemap diagram illustrating a well-organized website's information architecture, showing main categories and sub-pages for a typical small business website."
+      },
+      {
+        "purpose": "Show Wireframing progression.",
+        "prompt": "A series of three images side-by-side: a low-fidelity hand-drawn wireframe sketch, a mid-fidelity digital wireframe (e.g., grayscale boxes), and a high-fidelity mockup for the same webpage section (e.g., a product page or contact form)."
+      },
+      {
+        "purpose": "Explain visual hierarchy.",
+        "prompt": "Two contrasting web page layouts: one with poor visual hierarchy (e.g., all text same size, no clear focus) and another with strong visual hierarchy (e.g., clear headings, distinct call-to-action, good use of whitespace) for the same content."
+      },
+      {
+        "purpose": "Illustrate color palette application.",
+        "prompt": "An example of a website's color palette (e.g., 5-7 colors) with a brief explanation of how each color is typically used (e.g., primary, secondary, accent, background, text), shown applied to simple UI elements like buttons and text."
+      },
+      {
+        "purpose": "Show typography pairing.",
+        "prompt": "A visual demonstrating effective font pairing for a website, showing a distinct heading font, a body text font, and perhaps an accent font, with examples of their usage in a sample web content block."
+      },
+      {
+        "purpose": "Demonstrate responsive design.",
+        "prompt": "A three-panel image showing the same website layout adapting seamlessly across different device screens: a desktop view, a tablet view, and a mobile phone view, highlighting changes in layout, navigation, and content prioritization."
+      },
+      {
+        "purpose": "Illustrate prototyping.",
+        "prompt": "A screenshot of a popular prototyping tool (e.g., Figma, Adobe XD) showing a simple interactive prototype with connection lines between screens, demonstrating a user flow for a common website action (e.g., adding an item to a cart)."
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Building Interactivity and Responsiveness",
+    "objectives": [
+      "Enable dynamic user experiences using JavaScript for interactivity and client-side logic.",
+      "Implement responsive design principles to ensure optimal website display across various devices and screen sizes.",
+      "Utilize advanced CSS layout techniques like Flexbox and Grid for creating complex, flexible, and adaptive designs.",
+      "Integrate fundamental accessibility best practices into web development to create inclusive user experiences.",
+      "Leverage browser developer tools for effective debugging, styling inspection, and performance optimization."
+    ],
+    "key_ideas": [
+      "JavaScript is the scripting language that brings dynamic functionality, interactivity, and client-side logic to web pages by manipulating the Document Object Model (DOM).",
+      "Understanding the Document Object Model (DOM) is crucial for JavaScript to interact with and modify the structure, style, and content of web pages.",
+      "Event handling in JavaScript allows web pages to react to user actions (e.g., clicks, form submissions, keyboard inputs), enabling interactive forms, dynamic content updates, and single-page application behaviors.",
+      "Responsive Web Design (RWD) is essential for modern websites, adapting layouts and content to different screen sizes and orientations using techniques like fluid grids, flexible images, and CSS media queries.",
+      "CSS Media Queries are the cornerstone of RWD, allowing developers to apply different styles based on device characteristics such as screen width, height, resolution, and orientation.",
+      "CSS Flexbox provides a one-dimensional layout system for arranging items in a row or column, offering powerful alignment and distribution capabilities.",
+      "CSS Grid provides a two-dimensional layout system for arranging items in rows and columns simultaneously, making it ideal for creating complex page structures and component layouts.",
+      "Web accessibility (a11y) ensures that websites are usable by people with disabilities, achieved through semantic HTML, ARIA attributes, keyboard navigation, adequate color contrast, and clear content structure.",
+      "Semantic HTML elements (e.g., `header`, `nav`, `main`, `footer`, `article`, `section`) improve both accessibility and SEO by providing meaningful structure to content.",
+      "Browser developer tools are indispensable for front-end development, offering powerful features for inspecting elements, debugging JavaScript, monitoring network activity, analyzing performance, and testing responsive layouts."
+    ],
+    "image_prompts": [
+      {
+        "purpose": "Illustrate JavaScript DOM manipulation.",
+        "prompt": "A split-screen image showing: on the left, a simple HTML structure (e.g., a `div` with an ID and initial text); on the right, a JavaScript code snippet using `document.getElementById().innerHTML = 'New Content!';` or `element.classList.add('active');`, with an arrow pointing from the code to the visually updated HTML element in a browser view, demonstrating the change."
+      },
+      {
+        "purpose": "Demonstrate responsive design across devices.",
+        "prompt": "A multi-panel image showing a single website layout adapting across three different device screen sizes: a large desktop monitor, a tablet in portrait mode, and a smartphone. Highlight how elements (e.g., navigation menu, image grid, text columns) rearrange and resize for each screen, possibly with a small overlay of a CSS media query snippet."
+      },
+      {
+        "purpose": "Compare Flexbox and Grid layouts.",
+        "prompt": "A side-by-side comparison diagram illustrating the core concept of Flexbox (one-dimensional alignment, e.g., items in a row, with arrows showing distribution) versus CSS Grid (two-dimensional alignment, e.g., items in defined rows and columns, with a grid overlay). Use simple colored boxes to represent elements and clear labels for each layout method."
+      },
+      {
+        "purpose": "Show an example of accessible web design features.",
+        "prompt": "A screenshot or mock-up of a web form or interactive component with clearly visible accessibility features: high-contrast text, a visible focus indicator (e.g., a blue outline around an active input field or button), descriptive `label` elements associated with inputs, and a small tooltip or text indicating the use of an ARIA attribute (e.g., `aria-label`, `aria-describedby`)."
+      },
+      {
+        "purpose": "Visual guide to browser developer tools.",
+        "prompt": "A detailed screenshot of a web browser's developer tools panel open, specifically highlighting the 'Elements' tab with an HTML element selected, and the 'Styles' pane showing the applied CSS rules and the box model. Optionally, include a smaller section showing the 'Console' tab with a simple JavaScript log message, and the 'Network' tab showing loading resources."
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Crafting the Foundation: HTML for Structure and CSS for Style",
+    "objectives": [
+      "Master the fundamental syntax and purpose of HTML for structuring web content.",
+      "Utilize semantic HTML5 elements to create meaningful and accessible document outlines.",
+      "Grasp the core principles of CSS for styling web pages, including selectors, properties, and values.",
+      "Apply the CSS Box Model to control element spacing, borders, and dimensions.",
+      "Implement basic responsive design techniques using the viewport meta tag and simple media queries.",
+      "Develop a foundational understanding of how HTML and CSS interact to build a visually appealing and organized web page."
+    ],
+    "key_ideas": [
+      "Introduction to HTML: The HyperText Markup Language as the structural backbone of web pages.",
+      "Basic HTML Document Structure: `<!DOCTYPE>`, `<html>`, `<head>`, `<body>` and their roles.",
+      "Semantic HTML5 Elements: Leveraging `header`, `nav`, `main`, `article`, `section`, `aside`, `footer` for meaningful content organization and accessibility.",
+      "Common HTML Elements: Headings (`<h1>`-`<h6>`), paragraphs (`<p>`), lists (`<ul>`, `<ol>`, `<li>`), links (`<a>`), images (`<img>`), tables (`<table>`), and form elements (`<form>`, `<input>`, `<label>`, `<textarea>`, `<button>`).",
+      "Introduction to CSS: Cascading Style Sheets for defining the visual presentation of web content.",
+      "CSS Syntax and Inclusion: Selectors, properties, values, and methods for linking CSS (external, internal, inline).",
+      "Basic CSS Selectors: Element, class, ID, universal, and attribute selectors.",
+      "The CSS Box Model: Understanding content, padding, border, and margin to control element layout and spacing.",
+      "Core CSS Properties: `color`, `font-family`, `font-size`, `text-align`, `background`, `width`, `height`, `display` (block, inline, inline-block).",
+      "Cascading and Specificity: How CSS rules are applied and prioritized.",
+      "Basic Responsive Design: Using the viewport meta tag and simple `min-width` media queries to adapt layouts for different screen sizes.",
+      "Browser Developer Tools: Utilizing browser-built-in tools for inspecting, debugging, and modifying HTML and CSS in real-time.",
+      "Best Practices: Writing clean, semantic HTML and organized, maintainable CSS."
+    ],
+    "image_prompts": [
+      {
+        "purpose": "Illustrate HTML document structure",
+        "prompt": "Diagram showing the basic HTML document structure: DOCTYPE, html, head, and body tags, with a brief explanation of what each section contains. Use a clean, modern design."
+      },
+      {
+        "purpose": "Demonstrate semantic HTML5",
+        "prompt": "Visual representation of a typical webpage layout using semantic HTML5 elements like header, nav, main, article, aside, and footer, clearly labeled. Show how these elements structure content on a page."
+      },
+      {
+        "purpose": "Explain CSS syntax",
+        "prompt": "Infographic illustrating the basic CSS rule syntax: selector, property, and value, with a simple example like `p { color: blue; }`. Highlight each part clearly."
+      },
+      {
+        "purpose": "Visualize the CSS Box Model",
+        "prompt": "Detailed diagram of the CSS Box Model, clearly showing the content, padding, border, and margin layers for a single HTML element. Use distinct colors for each layer and include labels for top, right, bottom, left values."
+      },
+      {
+        "purpose": "Show basic responsive design",
+        "prompt": "Two side-by-side screenshots or mockups of a simple webpage. One shows the page on a desktop screen, and the other shows the same page on a mobile screen, demonstrating a basic layout adjustment using a media query (e.g., a column stacking on mobile). Highlight the viewport meta tag and a simple media query example."
+      },
+      {
+        "purpose": "Browser Developer Tools",
+        "prompt": "Screenshot of a browser's developer tools panel (e.g., Chrome DevTools) open, specifically showing the 'Elements' tab with HTML highlighted and the 'Styles' tab showing applied CSS rules for that element. Annotate key areas like element inspection and style modification."
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Bringing Your Website to Life: Mastering JavaScript Fundamentals",
+    "objectives": [
+      "Grasp the foundational role of JavaScript in creating dynamic and interactive web experiences.",
+      "Learn core JavaScript syntax, data types, operators, and control flow mechanisms.",
+      "Understand and apply Document Object Model (DOM) manipulation to dynamically update web content.",
+      "Implement event handling to respond to user interactions and create engaging features.",
+      "Develop basic client-side form validation and error handling using JavaScript.",
+      "Utilize browser developer tools for effective JavaScript debugging and inspection."
+    ],
+    "key_ideas": [
+      "**JavaScript's Core Purpose**: How JS adds behavior, interactivity, and dynamic content to static HTML/CSS, completing the web's three-layer structure.",
+      "**Basic Syntax & Variables**: Declaring variables (`var`, `let`, `const`), understanding fundamental data types (strings, numbers, booleans, arrays, objects), and using arithmetic, assignment, and comparison operators.",
+      "**Control Flow**: Implementing logical decisions with conditional statements (`if/else`, `switch`) and iterating over data with looping constructs (`for`, `while`, `forEach`).",
+      "**Functions**: Defining, calling, passing parameters, returning values, and understanding function scope (global vs. local) for reusable code blocks.",
+      "**The Document Object Model (DOM)**: Comprehending the DOM as a programming interface for web documents, selecting elements (`getElementById`, `querySelector`, `querySelectorAll`), and modifying their content, attributes, and styles.",
+      "**Event Handling**: Attaching event listeners (`addEventListener`) to respond to various user actions (e.g., clicks, keypresses, form submissions, mouse hovers) and trigger JavaScript functions.",
+      "**Interactive Elements**: Practical application of JavaScript to create common interactive features such as toggling element visibility, dynamic content loading, and simple CSS class manipulations for visual effects.",
+      "**Form Validation**: Implementing client-side validation techniques to check user input for correctness and completeness before submission, providing immediate feedback to the user.",
+      "**Debugging**: Utilizing the browser's developer console for `console.log` messages, inspecting variables, setting breakpoints, and tracing code execution to identify and fix JavaScript errors."
+    ],
+    "image_prompts": [
+      {
+        "purpose": "Illustrate the conceptual relationship between HTML, CSS, and JavaScript.",
+        "prompt": "A clean, modern diagram showing three interconnected blocks or layers labeled 'HTML (Structure)', 'CSS (Style)', and 'JavaScript (Behavior)', with arrows indicating how JavaScript can interact with and modify both HTML and CSS, forming a complete web experience."
+      },
+      {
+        "purpose": "Demonstrate basic JavaScript syntax and variable declaration.",
+        "prompt": "A code snippet screenshot with syntax highlighting, illustrating `let`, `const` variable declarations, string and number data types, a simple arithmetic operation, and a `console.log()` output in a browser's console."
+      },
+      {
+        "purpose": "Explain DOM manipulation visually.",
+        "prompt": "A split image: on one side, a simplified visual representation of a DOM tree (e.g., `body` -> `div` -> `p`, `button`); on the other side, a corresponding JavaScript code snippet showing how to select the `p` element and change its `textContent` or `style.color`."
+      },
+      {
+        "purpose": "Show event handling in action with a practical example.",
+        "prompt": "A screenshot of a simple webpage featuring a button and a paragraph. Below it, a JavaScript code snippet demonstrating `document.querySelector('button').addEventListener('click', function() { /* change paragraph text */ });`, with an arrow pointing from the code to the button on the webpage."
+      },
+      {
+        "purpose": "Guide through JavaScript debugging using browser developer tools.",
+        "prompt": "A screenshot of a browser's developer console open to the 'Console' tab, showing a `console.log` message, a JavaScript error message (e.g., 'Uncaught TypeError'), and potentially a breakpoint highlighted in the 'Sources' tab with variable inspection."
+      },
+      {
+        "purpose": "Showcase a simple interactive feature created with JavaScript.",
+        "prompt": "A two-panel image or a subtle animated GIF demonstrating a 'before' and 'after' state of a common interactive element, such as a 'Read More' button toggling the visibility of additional text, or a simple image carousel, clearly indicating JavaScript's role."
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Building the Back-End: Server-Side Scripting and Databases",
+    "objectives": [
+      "Understand the fundamental role and components of back-end development in a comprehensive website.",
+      "Differentiate between common server-side technologies and their applications.",
+      "Grasp core database concepts, including relational vs. NoSQL databases and schema design.",
+      "Learn to perform basic Create, Read, Update, and Delete (CRUD) operations using SQL.",
+      "Understand how front-end applications communicate with the back-end via API endpoints.",
+      "Identify essential security considerations for protecting server-side logic and database integrity."
+    ],
+    "key_ideas": [
+      "**Client-Server Architecture**: The division of labor between the user's browser (front-end) and the server (back-end) for processing requests and managing data.",
+      "**Server-Side Scripting**: Languages and frameworks (e.g., Node.js, Python, PHP) that execute code on the server to generate dynamic content and manage application logic.",
+      "**Database Management Systems (DBMS)**: Software for storing, retrieving, and managing data, categorized into relational (SQL like MySQL, PostgreSQL) and non-relational (NoSQL like MongoDB).",
+      "**Database Schema Design**: Structuring data into tables, defining relationships, and ensuring data integrity using primary and foreign keys.",
+      "**CRUD Operations**: The four fundamental operations (Create, Read, Update, Delete) for interacting with data in a database, often implemented via SQL commands.",
+      "**RESTful APIs**: A set of architectural principles for designing networked applications, enabling front-end and back-end communication through standardized HTTP requests.",
+      "**Back-End Security**: Essential practices like input validation, sanitization, password hashing, and preventing SQL injection to protect server and database resources."
+    ],
+    "image_prompts": [
+      {
+        "purpose": "Illustrate the overall client-server-database interaction.",
+        "prompt": "A clear, clean diagram showing a user's browser (client) sending a request to a server, which then interacts with a database, and sends a response back to the client. Use distinct icons for browser, server, and database, with directional arrows."
+      },
+      {
+        "purpose": "Explain database schema design.",
+        "prompt": "A simple Entity-Relationship Diagram (ERD) illustrating relationships between 2-3 common website entities like 'Users', 'Products', and 'Orders', showing primary and foreign keys. Use standard ERD notation."
+      },
+      {
+        "purpose": "Visualize CRUD operations conceptually.",
+        "prompt": "A flowchart or infographic depicting the four CRUD operations (Create, Read, Update, Delete) with their corresponding SQL keywords (INSERT, SELECT, UPDATE, DELETE) and a brief description of their function."
+      },
+      {
+        "purpose": "Show an example of an API request/response.",
+        "prompt": "A simplified diagram or mock-up showing a browser sending an HTTP GET request to a server's API endpoint (e.g., '/api/products'), and the server responding with a JSON data structure representing a list of products."
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "title": "Deployment, Security, and Post-Launch Success",
+    "objectives": [
+      "Guide readers through the process of deploying a website to a live server.",
+      "Educate on fundamental security measures to protect the website and its users.",
+      "Provide strategies for optimizing website performance and user experience post-launch.",
+      "Explain how to monitor website health and analyze visitor behavior.",
+      "Detail essential maintenance practices for long-term website stability and growth.",
+      "Introduce initial steps for promoting the website and improving its search engine visibility."
+    ],
+    "key_ideas": [
+      "**Website Deployment Strategies:** Understand different hosting options (shared, VPS, cloud), domain name registration, DNS configuration, file transfer methods (FTP, SFTP, Git), database migration, and setting up production environments.",
+      "**Essential Website Security:** Learn about common web vulnerabilities (XSS, SQLi, DDoS), the importance of SSL/TLS certificates, server-side security (firewalls, access control), application-level security (input validation, secure coding), and robust backup and recovery plans.",
+      "**Performance Optimization Techniques:** Discover how to improve website loading speeds through front-end optimizations (image compression, minification, browser caching, CDNs) and back-end optimizations (database query efficiency, server-side caching).",
+      "**Website Monitoring and Analytics:** Set up tools for tracking website uptime, error logging, and performance. Learn to use web analytics platforms (e.g., Google Analytics) to monitor key metrics like traffic, bounce rate, conversion rates, and user behavior.",
+      "**Ongoing Maintenance and Updates:** Implement a routine for regular software updates (OS, CMS, plugins), content refreshes, security patches, broken link checks, and strategic planning for website scalability.",
+      "**Initial SEO and Post-Launch Promotion:** Understand basic Search Engine Optimization (SEO) principles including submitting to search engines, creating XML sitemaps, optimizing meta tags and headings. Integrate social media and explore basic email marketing for initial promotion."
+    ],
+    "image_prompts": [
+      {
+        "purpose": "Illustrate website deployment.",
+        "prompt": "A clear, concise diagram illustrating the website deployment pipeline: a developer's local machine connected to a version control system (Git icon), which then pushes to a CI/CD pipeline icon, leading to a hosting server (cloud server icon) with a database icon, and finally a domain name icon pointing to the live website."
+      },
+      {
+        "purpose": "Visualize website security layers.",
+        "prompt": "An infographic showing layers of website security: an outer layer representing a firewall, an SSL/TLS lock icon protecting the data flow, a server icon with strong access controls, and a database icon with encryption. Include small, stylized icons of common threats (e.g., malware, phishing) being blocked by these layers."
+      },
+      {
+        "purpose": "Compare slow vs. optimized website performance.",
+        "prompt": "A split image or infographic: one side showing a 'slow' website (e.g., a spinning loading icon, pixelated images, frustrated user silhouette) and the other side showing a 'fast' website (e.g., instant load, crisp images, happy user silhouette). Include callouts for key optimization techniques like 'Image Compression,' 'CDN,' and 'Caching' on the 'fast' side."
+      },
+      {
+        "purpose": "Represent website analytics dashboard.",
+        "prompt": "A modern, clean dashboard interface displaying key web analytics metrics: a line graph for website traffic over time, a pie chart for user demographics, a bar chart for top pages, and a small widget for real-time users or uptime monitoring. The design should be professional and easy to understand."
+      },
+      {
+        "purpose": "Depict ongoing website maintenance.",
+        "prompt": "A metaphorical image of a website being 'tuned up' or 'maintained' – perhaps a set of interconnected gears, each labeled with a maintenance task: 'Updates,' 'Backups,' 'Content Refresh,' and 'Security Patches.' The overall image should convey continuous care and improvement."
+      },
+      {
+        "purpose": "Show initial SEO and promotion activities.",
+        "prompt": "A stylized search engine results page (SERP) with a website listing prominently at the top. Surrounding the SERP, include icons for popular social media platforms (e.g., Facebook, X, Instagram), an email newsletter signup form icon, and a Google My Business profile card, representing various promotion channels."
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Part 8",
+    "objectives": [
+      "Understand the fundamental role of server-side programming in creating dynamic and interactive websites.",
+      "Differentiate between relational and non-relational databases and their applications in web development.",
+      "Set up a local development environment to facilitate server-side and database integration.",
+      "Implement core data management operations (Create, Read, Update, Delete) using server-side logic and a database.",
+      "Learn how to establish communication between the front-end and back-end for data exchange.",
+      "Grasp essential concepts of user authentication and basic web security practices."
+    ],
+    "key_ideas": [
+      "The distinction between static and dynamic websites, and the necessity of server-side processing for complex functionalities.",
+      "An overview of popular server-side languages and frameworks (e.g., Node.js, Python/Django, PHP/Laravel, Ruby/Rails) and considerations for choosing one.",
+      "The structure and purpose of databases, including a comparison of SQL (relational) and NoSQL (non-relational) types, and common database systems like MySQL, PostgreSQL, and MongoDB.",
+      "Practical steps for installing and configuring a local database server and utilizing database management tools (e.g., phpMyAdmin, DBeaver).",
+      "How to connect server-side code to a database using appropriate drivers/libraries and execute basic data manipulation queries (SELECT, INSERT, UPDATE, DELETE).",
+      "The principles of Application Programming Interfaces (APIs), specifically RESTful design, for structured data interaction between different software components.",
+      "Developing basic API endpoints to perform Create, Read, Update, and Delete (CRUD) operations on database records via HTTP methods.",
+      "Techniques for front-end JavaScript (e.g., using the `fetch` API or `axios`) to interact with back-end APIs for sending and retrieving dynamic data.",
+      "Fundamental concepts of user authentication, including password hashing, session management, and token-based authentication.",
+      "An introduction to common web security vulnerabilities (e.g., SQL Injection, Cross-Site Scripting - XSS) and basic mitigation strategies."
+    ],
+    "image_prompts": [
+      {
+        "purpose": "Illustrate the client-server interaction with data flow.",
+        "prompt": "Diagram showing a user's browser (client) sending a request to a server, the server interacting with a database, and then sending a dynamic response back to the client. Highlight the data flow and the roles of each component."
+      },
+      {
+        "purpose": "Compare SQL and NoSQL databases.",
+        "prompt": "Infographic comparing SQL (relational) and NoSQL (non-relational) databases side-by-side, listing their key characteristics, typical use cases, and examples of each type (e.g., MySQL vs. MongoDB)."
+      },
+      {
+        "purpose": "Show a local database setup.",
+        "prompt": "Screenshot of a database management tool (e.g., phpMyAdmin, DBeaver, or pgAdmin) displaying a simple database with one or two tables and some sample data, demonstrating a local development environment."
+      },
+      {
+        "purpose": "Visualize API request/response cycle.",
+        "prompt": "Diagram illustrating a RESTful API request/response cycle: a client (e.g., browser) sending an HTTP request (GET, POST) to an API endpoint, the server processing it, interacting with a database, and returning a JSON response."
+      },
+      {
+        "purpose": "Explain user authentication flow.",
+        "prompt": "Flowchart depicting a basic user authentication process: user enters credentials, server hashes password, verifies against database, creates a session/token, and grants access. Include steps for successful login and failed attempts."
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "title": "Ensuring Quality: Testing, Optimization, and Security",
+    "objectives": [
+      "Understand the various types of testing crucial for a comprehensive website.",
+      "Learn practical debugging techniques using browser developer tools and other strategies.",
+      "Identify common website performance bottlenecks and implement effective optimization strategies.",
+      "Grasp fundamental website security threats and apply best practices to protect your site.",
+      "Develop a proactive mindset towards maintaining website quality, speed, and security."
+    ],
+    "key_ideas": [
+      "Comprehensive testing involves functional, usability, cross-browser, accessibility, performance, and security checks.",
+      "Browser developer tools are indispensable for debugging front-end issues and analyzing network activity.",
+      "Website performance is critical for user experience and SEO, measured by Core Web Vitals.",
+      "Key optimization techniques include image compression, caching, minification, and using CDNs.",
+      "Common security threats like XSS, SQL injection, and CSRF can be mitigated with secure coding practices and SSL/TLS.",
+      "Regular updates, security audits, and input validation are essential for ongoing website protection."
+    ],
+    "image_prompts": [
+      {
+        "purpose": "Illustrate debugging",
+        "prompt": "Screenshot of a browser's developer tools console and network tab, highlighting an error message or a slow network request, with annotations explaining key sections."
+      },
+      {
+        "purpose": "Show performance optimization impact",
+        "prompt": "Side-by-side comparison of a website loading: one showing a slow, unoptimized page with large images, and the other showing the same page loading quickly with optimized assets. Alternatively, a simplified graph illustrating Lighthouse scores before and after optimization."
+      },
+      {
+        "purpose": "Explain SSL/TLS",
+        "prompt": "A clear, simplified diagram illustrating the SSL/TLS handshake process between a web browser and a server, showing the secure connection being established."
+      },
+      {
+        "purpose": "Visualize security threats",
+        "prompt": "An infographic or diagram depicting common web security vulnerabilities (e.g., XSS, SQL Injection, CSRF) with simple icons or metaphors representing how they exploit a system."
+      },
+      {
+        "purpose": "Demonstrate cross-browser testing",
+        "prompt": "A composite image or collage showing a website's layout appearing correctly and consistently across multiple different web browsers (Chrome, Firefox, Safari, Edge) on various devices (desktop, tablet, mobile)."
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "title": "Maintaining, Securing, and Evolving Your Online Presence",
+    "objectives": [
+      "Establish a routine for ongoing website maintenance and content management.",
+      "Implement robust security measures to protect the website from common threats.",
+      "Monitor website performance and user engagement using analytics tools.",
+      "Plan for future website growth, scalability, and feature enhancements.",
+      "Understand and address essential legal and compliance requirements for a website."
+    ],
+    "key_ideas": [
+      "The importance of post-launch management as an ongoing process.",
+      "Implementing regular backup strategies and software updates.",
+      "Protecting your website with strong passwords, firewalls, and security scans.",
+      "Optimizing website speed and responsiveness through caching and code improvements.",
+      "Utilizing web analytics to understand user behavior and inform content strategy.",
+      "Planning for future scalability, new features, and continuous improvement.",
+      "Ensuring compliance with privacy laws (e.g., GDPR, CCPA) and accessibility standards."
+    ],
+    "image_prompts": [
+      {
+        "purpose": "Chapter Opener/Maintenance",
+        "prompt": "A digital dashboard showing various maintenance tasks: backup success, software updates pending, database optimization complete, broken link report. Clean, modern UI, professional, technical."
+      },
+      {
+        "purpose": "Security",
+        "prompt": "A stylized digital shield icon protecting a website server rack, with lines of code flowing around it like a firewall. Elements of a padlock and an alert symbol subtly integrated. Cyber security theme, professional, technical."
+      },
+      {
+        "purpose": "Performance Optimization",
+        "prompt": "A speedometer with the needle firmly in the 'fast' green zone, overlaid with icons representing caching, image optimization, and code minification. Below, a graph showing a decreasing load time. Clean, technical, speed-focused."
+      },
+      {
+        "purpose": "Analytics and Growth",
+        "prompt": "A multi-screen setup showing various analytics dashboards (traffic, bounce rate, conversion rates) on one screen, and a growth chart with an upward trend on another. A magnifying glass hovering over data points. Professional, data-driven, strategic."
+      },
+      {
+        "purpose": "Legal and Compliance",
+        "prompt": "A stack of digital documents or legal scrolls with icons representing a privacy policy, terms of service, and a cookie consent banner. A small 'checkmark' or 'compliant' badge. Clear, legal, modern, technical."
+      }
+    ]
+  }
+]

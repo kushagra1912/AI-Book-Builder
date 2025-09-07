@@ -1,0 +1,292 @@
+[
+  {
+    "chapter": 1,
+    "purpose": "Illustrate the overall planning process.",
+    "prompt": "An architect's desk with blueprints, sketches, and a digital tablet displaying website wireframes, symbolizing the foundational planning stage of a website project."
+  },
+  {
+    "chapter": 1,
+    "purpose": "Explain SMART goals.",
+    "prompt": "A clean, modern infographic illustrating the SMART goals framework (Specific, Measurable, Achievable, Relevant, Time-bound) applied to website objectives, with clear icons for each letter."
+  },
+  {
+    "chapter": 1,
+    "purpose": "Demonstrate user persona concept.",
+    "prompt": "A user persona profile card, showing a fictional user's photo, name, demographics, goals, pain points, and a relevant quote, representing a target website user."
+  },
+  {
+    "chapter": 1,
+    "purpose": "Visualize competitor analysis.",
+    "prompt": "A simplified comparison table or matrix showing key features and characteristics of several competitor websites, highlighting strengths and weaknesses, with analytical charts."
+  },
+  {
+    "chapter": 1,
+    "purpose": "Show website structure.",
+    "prompt": "A clear, hierarchical sitemap diagram for a small business website, showing main pages (e.g., Home, About, Services, Contact) and sub-pages, with arrows indicating navigation paths."
+  },
+  {
+    "chapter": 1,
+    "purpose": "Illustrate user journey.",
+    "prompt": "A simple user flow diagram showing a user's path through a website to complete a specific task (e.g., 'Find a service' or 'Make a purchase'), using interconnected shapes and arrows."
+  },
+  {
+    "chapter": 1,
+    "purpose": "Explain website components.",
+    "prompt": "An abstract, interconnected diagram representing the high-level components of a website: 'Frontend' (user interface), 'Backend' (server logic), 'Database' (data storage), and 'Hosting' (server location), with arrows showing data flow."
+  },
+  {
+    "chapter": 1,
+    "purpose": "Visualize project management.",
+    "prompt": "A simplified Gantt chart or project timeline graphic for a website development project, showing key phases like planning, design, development, and launch with estimated durations."
+  },
+  {
+    "chapter": 2,
+    "purpose": "Illustrate UX vs. UI.",
+    "prompt": "A visually clear infographic or Venn diagram comparing and contrasting User Experience (UX) and User Interface (UI) design elements and their focus areas (e.g., UX focuses on research, flow, usability; UI focuses on visuals, interaction, branding)."
+  },
+  {
+    "chapter": 2,
+    "purpose": "Demonstrate Information Architecture.",
+    "prompt": "A simple, clean flowchart or sitemap diagram illustrating a well-organized website's information architecture, showing main categories and sub-pages for a typical small business website."
+  },
+  {
+    "chapter": 2,
+    "purpose": "Show Wireframing progression.",
+    "prompt": "A series of three images side-by-side: a low-fidelity hand-drawn wireframe sketch, a mid-fidelity digital wireframe (e.g., grayscale boxes), and a high-fidelity mockup for the same webpage section (e.g., a product page or contact form)."
+  },
+  {
+    "chapter": 2,
+    "purpose": "Explain visual hierarchy.",
+    "prompt": "Two contrasting web page layouts: one with poor visual hierarchy (e.g., all text same size, no clear focus) and another with strong visual hierarchy (e.g., clear headings, distinct call-to-action, good use of whitespace) for the same content."
+  },
+  {
+    "chapter": 2,
+    "purpose": "Illustrate color palette application.",
+    "prompt": "An example of a website's color palette (e.g., 5-7 colors) with a brief explanation of how each color is typically used (e.g., primary, secondary, accent, background, text), shown applied to simple UI elements like buttons and text."
+  },
+  {
+    "chapter": 2,
+    "purpose": "Show typography pairing.",
+    "prompt": "A visual demonstrating effective font pairing for a website, showing a distinct heading font, a body text font, and perhaps an accent font, with examples of their usage in a sample web content block."
+  },
+  {
+    "chapter": 2,
+    "purpose": "Demonstrate responsive design.",
+    "prompt": "A three-panel image showing the same website layout adapting seamlessly across different device screens: a desktop view, a tablet view, and a mobile phone view, highlighting changes in layout, navigation, and content prioritization."
+  },
+  {
+    "chapter": 2,
+    "purpose": "Illustrate prototyping.",
+    "prompt": "A screenshot of a popular prototyping tool (e.g., Figma, Adobe XD) showing a simple interactive prototype with connection lines between screens, demonstrating a user flow for a common website action (e.g., adding an item to a cart)."
+  },
+  {
+    "chapter": 3,
+    "purpose": "Illustrate JavaScript DOM manipulation.",
+    "prompt": "A split-screen image showing: on the left, a simple HTML structure (e.g., a `div` with an ID and initial text); on the right, a JavaScript code snippet using `document.getElementById().innerHTML = 'New Content!';` or `element.classList.add('active');`, with an arrow pointing from the code to the visually updated HTML element in a browser view, demonstrating the change."
+  },
+  {
+    "chapter": 3,
+    "purpose": "Demonstrate responsive design across devices.",
+    "prompt": "A multi-panel image showing a single website layout adapting across three different device screen sizes: a large desktop monitor, a tablet in portrait mode, and a smartphone. Highlight how elements (e.g., navigation menu, image grid, text columns) rearrange and resize for each screen, possibly with a small overlay of a CSS media query snippet."
+  },
+  {
+    "chapter": 3,
+    "purpose": "Compare Flexbox and Grid layouts.",
+    "prompt": "A side-by-side comparison diagram illustrating the core concept of Flexbox (one-dimensional alignment, e.g., items in a row, with arrows showing distribution) versus CSS Grid (two-dimensional alignment, e.g., items in defined rows and columns, with a grid overlay). Use simple colored boxes to represent elements and clear labels for each layout method."
+  },
+  {
+    "chapter": 3,
+    "purpose": "Show an example of accessible web design features.",
+    "prompt": "A screenshot or mock-up of a web form or interactive component with clearly visible accessibility features: high-contrast text, a visible focus indicator (e.g., a blue outline around an active input field or button), descriptive `label` elements associated with inputs, and a small tooltip or text indicating the use of an ARIA attribute (e.g., `aria-label`, `aria-describedby`)."
+  },
+  {
+    "chapter": 3,
+    "purpose": "Visual guide to browser developer tools.",
+    "prompt": "A detailed screenshot of a web browser's developer tools panel open, specifically highlighting the 'Elements' tab with an HTML element selected, and the 'Styles' pane showing the applied CSS rules and the box model. Optionally, include a smaller section showing the 'Console' tab with a simple JavaScript log message, and the 'Network' tab showing loading resources."
+  },
+  {
+    "chapter": 4,
+    "purpose": "Illustrate HTML document structure",
+    "prompt": "Diagram showing the basic HTML document structure: DOCTYPE, html, head, and body tags, with a brief explanation of what each section contains. Use a clean, modern design."
+  },
+  {
+    "chapter": 4,
+    "purpose": "Demonstrate semantic HTML5",
+    "prompt": "Visual representation of a typical webpage layout using semantic HTML5 elements like header, nav, main, article, aside, and footer, clearly labeled. Show how these elements structure content on a page."
+  },
+  {
+    "chapter": 4,
+    "purpose": "Explain CSS syntax",
+    "prompt": "Infographic illustrating the basic CSS rule syntax: selector, property, and value, with a simple example like `p { color: blue; }`. Highlight each part clearly."
+  },
+  {
+    "chapter": 4,
+    "purpose": "Visualize the CSS Box Model",
+    "prompt": "Detailed diagram of the CSS Box Model, clearly showing the content, padding, border, and margin layers for a single HTML element. Use distinct colors for each layer and include labels for top, right, bottom, left values."
+  },
+  {
+    "chapter": 4,
+    "purpose": "Show basic responsive design",
+    "prompt": "Two side-by-side screenshots or mockups of a simple webpage. One shows the page on a desktop screen, and the other shows the same page on a mobile screen, demonstrating a basic layout adjustment using a media query (e.g., a column stacking on mobile). Highlight the viewport meta tag and a simple media query example."
+  },
+  {
+    "chapter": 4,
+    "purpose": "Browser Developer Tools",
+    "prompt": "Screenshot of a browser's developer tools panel (e.g., Chrome DevTools) open, specifically showing the 'Elements' tab with HTML highlighted and the 'Styles' tab showing applied CSS rules for that element. Annotate key areas like element inspection and style modification."
+  },
+  {
+    "chapter": 5,
+    "purpose": "Illustrate the conceptual relationship between HTML, CSS, and JavaScript.",
+    "prompt": "A clean, modern diagram showing three interconnected blocks or layers labeled 'HTML (Structure)', 'CSS (Style)', and 'JavaScript (Behavior)', with arrows indicating how JavaScript can interact with and modify both HTML and CSS, forming a complete web experience."
+  },
+  {
+    "chapter": 5,
+    "purpose": "Demonstrate basic JavaScript syntax and variable declaration.",
+    "prompt": "A code snippet screenshot with syntax highlighting, illustrating `let`, `const` variable declarations, string and number data types, a simple arithmetic operation, and a `console.log()` output in a browser's console."
+  },
+  {
+    "chapter": 5,
+    "purpose": "Explain DOM manipulation visually.",
+    "prompt": "A split image: on one side, a simplified visual representation of a DOM tree (e.g., `body` -> `div` -> `p`, `button`); on the other side, a corresponding JavaScript code snippet showing how to select the `p` element and change its `textContent` or `style.color`."
+  },
+  {
+    "chapter": 5,
+    "purpose": "Show event handling in action with a practical example.",
+    "prompt": "A screenshot of a simple webpage featuring a button and a paragraph. Below it, a JavaScript code snippet demonstrating `document.querySelector('button').addEventListener('click', function() { /* change paragraph text */ });`, with an arrow pointing from the code to the button on the webpage."
+  },
+  {
+    "chapter": 5,
+    "purpose": "Guide through JavaScript debugging using browser developer tools.",
+    "prompt": "A screenshot of a browser's developer console open to the 'Console' tab, showing a `console.log` message, a JavaScript error message (e.g., 'Uncaught TypeError'), and potentially a breakpoint highlighted in the 'Sources' tab with variable inspection."
+  },
+  {
+    "chapter": 5,
+    "purpose": "Showcase a simple interactive feature created with JavaScript.",
+    "prompt": "A two-panel image or a subtle animated GIF demonstrating a 'before' and 'after' state of a common interactive element, such as a 'Read More' button toggling the visibility of additional text, or a simple image carousel, clearly indicating JavaScript's role."
+  },
+  {
+    "chapter": 6,
+    "purpose": "Illustrate the overall client-server-database interaction.",
+    "prompt": "A clear, clean diagram showing a user's browser (client) sending a request to a server, which then interacts with a database, and sends a response back to the client. Use distinct icons for browser, server, and database, with directional arrows."
+  },
+  {
+    "chapter": 6,
+    "purpose": "Explain database schema design.",
+    "prompt": "A simple Entity-Relationship Diagram (ERD) illustrating relationships between 2-3 common website entities like 'Users', 'Products', and 'Orders', showing primary and foreign keys. Use standard ERD notation."
+  },
+  {
+    "chapter": 6,
+    "purpose": "Visualize CRUD operations conceptually.",
+    "prompt": "A flowchart or infographic depicting the four CRUD operations (Create, Read, Update, Delete) with their corresponding SQL keywords (INSERT, SELECT, UPDATE, DELETE) and a brief description of their function."
+  },
+  {
+    "chapter": 6,
+    "purpose": "Show an example of an API request/response.",
+    "prompt": "A simplified diagram or mock-up showing a browser sending an HTTP GET request to a server's API endpoint (e.g., '/api/products'), and the server responding with a JSON data structure representing a list of products."
+  },
+  {
+    "chapter": 7,
+    "purpose": "Illustrate website deployment.",
+    "prompt": "A clear, concise diagram illustrating the website deployment pipeline: a developer's local machine connected to a version control system (Git icon), which then pushes to a CI/CD pipeline icon, leading to a hosting server (cloud server icon) with a database icon, and finally a domain name icon pointing to the live website."
+  },
+  {
+    "chapter": 7,
+    "purpose": "Visualize website security layers.",
+    "prompt": "An infographic showing layers of website security: an outer layer representing a firewall, an SSL/TLS lock icon protecting the data flow, a server icon with strong access controls, and a database icon with encryption. Include small, stylized icons of common threats (e.g., malware, phishing) being blocked by these layers."
+  },
+  {
+    "chapter": 7,
+    "purpose": "Compare slow vs. optimized website performance.",
+    "prompt": "A split image or infographic: one side showing a 'slow' website (e.g., a spinning loading icon, pixelated images, frustrated user silhouette) and the other side showing a 'fast' website (e.g., instant load, crisp images, happy user silhouette). Include callouts for key optimization techniques like 'Image Compression,' 'CDN,' and 'Caching' on the 'fast' side."
+  },
+  {
+    "chapter": 7,
+    "purpose": "Represent website analytics dashboard.",
+    "prompt": "A modern, clean dashboard interface displaying key web analytics metrics: a line graph for website traffic over time, a pie chart for user demographics, a bar chart for top pages, and a small widget for real-time users or uptime monitoring. The design should be professional and easy to understand."
+  },
+  {
+    "chapter": 7,
+    "purpose": "Depict ongoing website maintenance.",
+    "prompt": "A metaphorical image of a website being 'tuned up' or 'maintained' – perhaps a set of interconnected gears, each labeled with a maintenance task: 'Updates,' 'Backups,' 'Content Refresh,' and 'Security Patches.' The overall image should convey continuous care and improvement."
+  },
+  {
+    "chapter": 7,
+    "purpose": "Show initial SEO and promotion activities.",
+    "prompt": "A stylized search engine results page (SERP) with a website listing prominently at the top. Surrounding the SERP, include icons for popular social media platforms (e.g., Facebook, X, Instagram), an email newsletter signup form icon, and a Google My Business profile card, representing various promotion channels."
+  },
+  {
+    "chapter": 8,
+    "purpose": "Illustrate the client-server interaction with data flow.",
+    "prompt": "Diagram showing a user's browser (client) sending a request to a server, the server interacting with a database, and then sending a dynamic response back to the client. Highlight the data flow and the roles of each component."
+  },
+  {
+    "chapter": 8,
+    "purpose": "Compare SQL and NoSQL databases.",
+    "prompt": "Infographic comparing SQL (relational) and NoSQL (non-relational) databases side-by-side, listing their key characteristics, typical use cases, and examples of each type (e.g., MySQL vs. MongoDB)."
+  },
+  {
+    "chapter": 8,
+    "purpose": "Show a local database setup.",
+    "prompt": "Screenshot of a database management tool (e.g., phpMyAdmin, DBeaver, or pgAdmin) displaying a simple database with one or two tables and some sample data, demonstrating a local development environment."
+  },
+  {
+    "chapter": 8,
+    "purpose": "Visualize API request/response cycle.",
+    "prompt": "Diagram illustrating a RESTful API request/response cycle: a client (e.g., browser) sending an HTTP request (GET, POST) to an API endpoint, the server processing it, interacting with a database, and returning a JSON response."
+  },
+  {
+    "chapter": 8,
+    "purpose": "Explain user authentication flow.",
+    "prompt": "Flowchart depicting a basic user authentication process: user enters credentials, server hashes password, verifies against database, creates a session/token, and grants access. Include steps for successful login and failed attempts."
+  },
+  {
+    "chapter": 9,
+    "purpose": "Illustrate debugging",
+    "prompt": "Screenshot of a browser's developer tools console and network tab, highlighting an error message or a slow network request, with annotations explaining key sections."
+  },
+  {
+    "chapter": 9,
+    "purpose": "Show performance optimization impact",
+    "prompt": "Side-by-side comparison of a website loading: one showing a slow, unoptimized page with large images, and the other showing the same page loading quickly with optimized assets. Alternatively, a simplified graph illustrating Lighthouse scores before and after optimization."
+  },
+  {
+    "chapter": 9,
+    "purpose": "Explain SSL/TLS",
+    "prompt": "A clear, simplified diagram illustrating the SSL/TLS handshake process between a web browser and a server, showing the secure connection being established."
+  },
+  {
+    "chapter": 9,
+    "purpose": "Visualize security threats",
+    "prompt": "An infographic or diagram depicting common web security vulnerabilities (e.g., XSS, SQL Injection, CSRF) with simple icons or metaphors representing how they exploit a system."
+  },
+  {
+    "chapter": 9,
+    "purpose": "Demonstrate cross-browser testing",
+    "prompt": "A composite image or collage showing a website's layout appearing correctly and consistently across multiple different web browsers (Chrome, Firefox, Safari, Edge) on various devices (desktop, tablet, mobile)."
+  },
+  {
+    "chapter": 10,
+    "purpose": "Chapter Opener/Maintenance",
+    "prompt": "A digital dashboard showing various maintenance tasks: backup success, software updates pending, database optimization complete, broken link report. Clean, modern UI, professional, technical."
+  },
+  {
+    "chapter": 10,
+    "purpose": "Security",
+    "prompt": "A stylized digital shield icon protecting a website server rack, with lines of code flowing around it like a firewall. Elements of a padlock and an alert symbol subtly integrated. Cyber security theme, professional, technical."
+  },
+  {
+    "chapter": 10,
+    "purpose": "Performance Optimization",
+    "prompt": "A speedometer with the needle firmly in the 'fast' green zone, overlaid with icons representing caching, image optimization, and code minification. Below, a graph showing a decreasing load time. Clean, technical, speed-focused."
+  },
+  {
+    "chapter": 10,
+    "purpose": "Analytics and Growth",
+    "prompt": "A multi-screen setup showing various analytics dashboards (traffic, bounce rate, conversion rates) on one screen, and a growth chart with an upward trend on another. A magnifying glass hovering over data points. Professional, data-driven, strategic."
+  },
+  {
+    "chapter": 10,
+    "purpose": "Legal and Compliance",
+    "prompt": "A stack of digital documents or legal scrolls with icons representing a privacy policy, terms of service, and a cookie consent banner. A small 'checkmark' or 'compliant' badge. Clear, legal, modern, technical."
+  }
+]
