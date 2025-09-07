@@ -1,0 +1,12 @@
+{
+  "name": "LangGraph Solution Template for MCP",
+  "version": "1.0.0",
+  "python_version": "3.12",
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "BookPlanner": "/Users/kushagraagrawal/Desktop/LangGraph/Book/app.py:graph"
+  },
+  "env": ".env"
+}
